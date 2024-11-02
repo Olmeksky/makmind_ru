@@ -1,0 +1,2 @@
+[Mon Aug 19 02:40:14.872608 2024] [php:error] [pid 6321:tid 6321] [client 45.90.62.97:58648] script '/home/host1239175/makmind.ru/htdocs/www/3ds.php' not found or unable to stat
+[Mon Aug 19 09:25:33.466440 2024] [php:error] [pid 3075:tid 3075] [client 176.53.219.140:45848] script '/home/host1239175/makmind.ru/htdocs/www/index_sber.php' not found or unable to stat
